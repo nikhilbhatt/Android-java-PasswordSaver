@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".helpactivity"
+    android:orientation="vertical"
+    android:background="@drawable/background">
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbarhelper"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+        app:popupTheme="@style/ThemeOverlay.AppCompat.Light"
+        android:elevation="4dp"
+        android:background="#0000ff"
+        ></android.support.v7.widget.Toolbar>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@android:color/holo_red_dark"
+        android:text="What Password saver does?"
+        android:layout_marginTop="3dp"
+        android:textSize="20sp"
+        android:layout_marginStart="5dp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="15sp"
+        android:layout_marginStart="5dp"
+        android:layout_marginTop="3dp"
+        android:text="Password saver saves the Email and Respective Password long life."/>
+    <TextView
+        android:textColor="@android:color/holo_red_dark"
+
+        android:id="@+id/textview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:layout_marginTop="3dp"
+        android:layout_marginStart="5dp"
+        android:text="How To use Password Saver?"
+        />
+    <TextView
+        android:layout_marginTop="3dp"
+        android:layout_marginStart="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="15sp"
+        android:text="Password saver is a simple app in which you just have to click on plus(+) button Fill the name and password field and click ok button."/>
+    <TextView
+        android:textColor="@android:color/holo_red_dark"
+
+        android:textSize="20sp"
+        android:layout_marginTop="10dp"
+        android:layout_marginStart="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="How to delete an Password Field?"
+        />
+    <TextView
+        android:textSize="15sp"
+        android:layout_marginTop="3dp"
+        android:layout_marginStart="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Yes ,To delete a password you have to do following:\n
+1.Enable Delete button By clicking on 3 dot's.\n
+2.Swipe left or right on any Password that you saved.\n
+3.To delete more item's you have to enable delete button again, by following same procedure."/>
+</LinearLayout>
