@@ -1,4 +1,5 @@
-# PasswordSaver  is an android app used to store your username and password of any website.
+# PasswordSaver
+password saver is an android app used to store your username and password of any website.
 For example:- Facebook password,Gmail and many more.
 
 1. Master password of app is stored using sharedprefernces.
