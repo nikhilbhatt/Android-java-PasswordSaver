@@ -33,6 +33,16 @@ public class updatepassword extends AppCompatActivity {
                 String textpassword=mcurrentpassword.getText().toString();
                 String textnewpassword=mnewpassword.getText().toString();
                 String textconfirmpassword=mconfirmnewpassword.getText().toString();
+                if(textpassword.isEmpty())
+                {
+                    mcurrentpassword.setError("Field is empty!");
+                    return;
+                }
+                if(textnewpassword.isEmpty())
+                {
+                    mnewpassword.setError("Field is Empty!");
+                    return;
+                }
                 SharedPreferences sharedPreferences=getSharedPreferences("PREFS",0);
                 String currentpassword=sharedPreferences.getString("password","");
                 if(textpassword.equals(currentpassword))
