@@ -11,9 +11,9 @@ For example:- Facebook password,Gmail and many more.
       -> Java
 
 # Instructions
-   1.Clone or Download the repo https://github.com/nikhilbhatt/Android-java-PasswordSaver
-   2.Navigate to folder Android-java-PasswordSaver
-   3.Navigate to folder Android-java-Password-saver/app/src to access developer content.
+   1. Clone or Download the repo https://github.com/nikhilbhatt/Android-java-PasswordSaver.
+   2. Navigate to folder Android-java-PasswordSaver
+   3. Navigate to folder Android-java-Password-saver/app/src to access developer content.
 
 When you install the app first time in your device then it ask to create a new password which look like this.
 
