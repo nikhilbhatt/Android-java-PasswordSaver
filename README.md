@@ -10,12 +10,15 @@ When you install the app first time in your device then it ask to create a new p
 <img src="https://github.com/nikhilbhatt/PasswordSaver/blob/master/password%20saver/Screenshot_20190405-222511.png" width="350" height="600">
 
 After you successfully logged in then you can add username and password by clicking + button in bottom right of screen.
-You can use its many of features by clicking on three dots.
+
+<img src="https://github.com/nikhilbhatt/PasswordSaver/blob/master/password%20saver/Screenshot_20190405-222804.png" width="350" height="600"  >           <img src="https://github.com/nikhilbhatt/PasswordSaver/blob/master/password%20saver/Screenshot_20190405-222833.png" width="350" height="600" >
+
+*Click on three dots to check more features of app.*
 
 <img src="https://github.com/nikhilbhatt/PasswordSaver/blob/master/password%20saver/Screenshot_20190405-222523.png" width="350" height="600" >     <img src="https://github.com/nikhilbhatt/PasswordSaver/blob/master/password%20saver/Screenshot_20190405-222530.png" width="350" height="600">
 
-here you can update the master password of app.
 
-<img src="https://github.com/nikhilbhatt/PasswordSaver/blob/master/password%20saver/Screenshot_20190405-222542.png" width="350" height="600">       <img src="https://github.com/nikhilbhatt/PasswordSaver/blob/master/password%20saver/Screenshot_20190405-222833.png" width="350" height="600">
+here you can update the master password of app
 
-<img src="https://github.com/nikhilbhatt/PasswordSaver/blob/master/password%20saver/Screenshot_20190405-222804.png" width="350" height="600">
+
+<img src="https://github.com/nikhilbhatt/PasswordSaver/blob/master/password%20saver/Screenshot_20190405-222542.png" width="350" height="600">       
