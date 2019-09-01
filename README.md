@@ -1,4 +1,5 @@
 # PasswordSaver
+[![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)](https://github.com/nikhilbhatt/Android-java-PasswordSaver/blob/master/LICENSE)
 
 Password saver is an android app used to store your username and password of any website.
 For example:- Facebook password,Gmail and many more.
